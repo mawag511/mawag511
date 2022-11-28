@@ -2,9 +2,12 @@
   <img src="https://github.com/mawag511/mawag511/blob/main/Background.png"/>
 </div>
 <h1 align="center">Hello 👋, I'm Maria!</h1>
-<p align="center"> 💬 Software Engineer / Aspiring to become a cyber security specialist </p>$~~~~~~~~~~~$
+<p align="center"> 💬 Software Engineer / Aspiring to become a cyber security specialist </p>
+<p align="center"> <a href="https://mawag511.github.io/portfolio/"> Click here to check my portfolio! </a></p>
 
 
+&nbsp;
+&nbsp;
 
 **<h3 align="center">⚡ Used Lanuages and Tools:</h3>**
 <sub><p align="center">(Listed from Most Used to Least Used) </p></sub>
