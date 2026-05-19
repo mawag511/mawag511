@@ -61,7 +61,7 @@
 **<p align="center">BI Systems:</p>**
 <p align="center">
  <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.cloudron.io/store/icons/org.apache.superset.cloudronapp.png" alt="a_superset" width="50" height="50"/>
+   <img src="https://www.cloudron.io/store/icons/org.apache.superset.cloudronapp.png" alt="a_superset" width="40" height="40"/>
  </a> 
   <a href="https://pix.ru/products/pix-bi/bi/" target="_blank" rel="noreferrer"> 
    <img src="https://academy.pix.ru/pluginfile.php/1/theme_remui/faviconurl/1713877850/Favicon_1.png" alt="pix_bi" width="40" height="40"/>
