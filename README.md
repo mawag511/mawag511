@@ -16,19 +16,19 @@
 <p align="center">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
 
-**<p align="center">DBMS:</p>**
+**<p align="center">Data Bases:</p>**
 <p align="center"> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="sqlite"/>
@@ -48,15 +48,15 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <a href="https://www.starrocks.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.mds.yandex.net/i?id=0ebf158173193846feb5b3c0d6250e085e38694b-12634740-images-thumbs&n=13" alt="mysql" width="40" height="40"/>
+  </a>
 
 **<p align="center">Orchestrators and ETL/ELT Tools:</p>**
 <p align="center">
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://avatars.mds.yandex.net/i?id=8b46658e8d56cf1f8f985afd861459ef6ec7635a-4077803-images-thumbs&n=13" alt="a_airflow" width="40" height="40"/>
 </a> 
-  <a href="https://nifi.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="a_nifi" width="50" height="40"/>
-  </a> 
 
 **<p align="center">BI Systems:</p>**
 <p align="center">
@@ -84,10 +84,11 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a> 
+  <a href="https://nodejs.org/en/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40px" width="40px" />
+  </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40px" width="40px" />
   </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
@@ -126,6 +127,9 @@
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="unity" width="40" height="40"/>
+  </a>
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://blog.trocco.io/wp-content/uploads/2025/05/dbt-seeklogo.png" alt="unity" width="40" height="40"/>
   </a>
 
 
